@@ -5,4 +5,5 @@ int main()
 {
     printf("%d", 4);
     printf("huungan");
+    printf("vo nghia");
 }
